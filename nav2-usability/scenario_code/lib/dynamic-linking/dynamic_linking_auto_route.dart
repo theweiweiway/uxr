@@ -4,7 +4,6 @@
 //
 /// Dynamic linking example
 /// Done using AutoRoute
-
 import 'dart:math';
 
 import 'package:flutter/material.dart';

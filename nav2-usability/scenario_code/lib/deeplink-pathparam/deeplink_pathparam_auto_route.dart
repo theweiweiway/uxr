@@ -3,7 +3,7 @@
 // BSD-style license that can be found in the LICENSE file.
 
 /// Deeplink path parameters example
-/// Done using AutoRoute
+/// Done using AutoRoute 
 import 'package:flutter/material.dart';
 import 'package:auto_route/auto_route.dart';
 import 'deeplink_pathparam_auto_route.gr.dart';
